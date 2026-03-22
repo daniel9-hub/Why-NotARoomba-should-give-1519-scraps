@@ -1,5 +1,5 @@
 # Why-NotARoomba-should-give-1519-scraps
-This is a presentation with 10 reasons why NotARoomba should give me 1519 scraps
+This is a presentation with 10 reasons why NotARoomba should give me 1519 scraps.
 # How to use
 - To hange the slides, use left and right arrows.
 - To launch it, just run whynotaroombashouldgiveme1519scraps.exe.
